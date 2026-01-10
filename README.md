@@ -1,32 +1,32 @@
-<h1 align="center">Welcome to Het Bhutak's AI/ML Universe 🤖</h1>
+<h1 align="center">Welcome to Het Bhutak's Universe </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Deep+Learning+%26+LLM+Enthusiast;Building+Intelligent+Systems" />
 </p>
 
-## 🛠️ AI/ML Tech Stack
+##  AI/ML Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 `Python` `C++` `JavaScript` `TypeScript`
 
 ---
 
-### 🤖 AI/ML & Deep Learning
+###  AI/ML & Deep Learning
 `TensorFlow` `PyTorch` `Keras` `OpenCV` `YOLO`
 
 ---
 
-### 🧠 LLMs & RAG
+###  LLMs & RAG
 `BERT` `GPT` `LLaMA`  
 `LangChain` `LlamaIndex` `FAISS`
 
 ---
 
-### ⚙️ Backend & DevOps
+###  Backend & DevOps
 `Node.js` `FastAPI`  
 
 
-## 🧬 AI/ML Engineer DNA
+##  AI/ML Engineer DNA
 
 ```yaml
 name: "Het Bhutak"
