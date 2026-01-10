@@ -41,12 +41,6 @@ interests:
 ###  Backend & DevOps
 `Node.js` `FastAPI`  
 
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hettbhutak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ## 📊 Contribution Graph
 
