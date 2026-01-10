@@ -42,7 +42,7 @@ interests:
 `Node.js` `FastAPI`  
 
 
-## 📊 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hettbhutak&theme=tokyo-night&hide_border=true" />
