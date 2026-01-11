@@ -17,7 +17,6 @@ interests:
   - Deep Learning
   - Computer Vision
   - LLMs & Agentic AI
----
 ```
 
 ## Tech Stack
