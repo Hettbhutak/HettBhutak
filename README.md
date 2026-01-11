@@ -14,6 +14,7 @@ location: "Gujarat, India 🇮🇳"
 interests:
   - Artificial Intelligence
   - Machine Learning
+  - Software Developement
   - Deep Learning
   - Computer Vision
   - LLMs & Agentic AI
