@@ -34,14 +34,15 @@ interests:
 
 ---
 
-###  LLMs & RAG
-`BERT` `GPT` `LLaMA`  
+###  LLMs, RAG & IDE's
+`BERT` `GPT` `Claude` `LLaMA`  
 `LangChain` `LlamaIndex` `FAISS`
+`Vs Code` `CoLabs` `Cursor`
 
 ---
 
 ###  Backend & DevOps
-`Node.js` `FastAPI`  
+`Node.js` `FastAPI` `Networking` `CI/CD Tools`
 
 
 ##  Contribution Graph
