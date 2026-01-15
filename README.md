@@ -53,5 +53,6 @@ interests:
 
 ##  GitHub Activity Overview
 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hettbhutak&show_icons=true&theme=radical&count_private=true)
+![Het's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hettbhutak&theme=react-dark&hide_border=true)
+
 
