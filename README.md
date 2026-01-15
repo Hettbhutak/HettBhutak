@@ -45,14 +45,11 @@ interests:
 `Node.js` `FastAPI` `Networking` `CI/CD Tools`
 
 
-##  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hettbhutak&theme=tokyo-night&hide_border=true" />
-</p>
-
 ##  GitHub Activity Overview
 
 ![Het's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hettbhutak&theme=react-dark&hide_border=true)
+
+![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hettbhutak&show_icons=true&theme=radical&count_private=true)
+
 
 
