@@ -50,3 +50,8 @@ interests:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hettbhutak&theme=tokyo-night&hide_border=true" />
 </p>
+
+##  GitHub Activity Overview
+
+![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hettbhutak&show_icons=true&theme=radical&count_private=true)
+
