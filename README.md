@@ -49,10 +49,8 @@ interests:
 
 ![Het's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hettbhutak&theme=react-dark&hide_border=true)
 
-<!--   GitHub stats graph -->
 
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
 
 
