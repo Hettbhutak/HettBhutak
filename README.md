@@ -37,7 +37,7 @@ interests:
 ###  LLMs, RAG & IDE's
 `BERT` `GPT` `Claude` `LLaMA`  
 `LangChain` `LlamaIndex` `FAISS`
-`Vs Code` `CoLabs` `Cursor`
+`Vs Code` `CoLabs` `Cursor` `Git` `GitHub`
 
 ---
 
